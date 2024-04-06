@@ -1,0 +1,90 @@
+{
+  "recipies": [
+    {
+      "id": "1",
+      "title": "Palov",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rise", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaiIVyyUkAHeac-vENGDjexiVpvp_NOVwuRg&s"
+    },
+
+    {
+      "id": "2",
+      "title": "Ko'kat Somsa",
+      "cookingTime": "80 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytJY29amGxjPLgeLhG5H7_PGdBxs9O9HXGg&s"
+    },
+    {
+      "id": "3",
+      "title": "Shurva",
+      "cookingTime": "90 minutes",
+      "ingredients": ["Meat", "potato", "carrot", "onion", "tomato", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDN5agqR7_ZcJ3O7ctEkJmef20fFEWRDpltqpUtvFfA&s"
+    },
+    {
+      "id": "4",
+      "title": "Manti",
+      "cookingTime": "60 minutes",
+      "ingredients": ["Dough", "meat", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EZFTrGW19rwkPE9F9L3ryhhnfMq4NzLqLg&s"
+    },
+    {
+      "id": "5",
+      "title": "Pitsa",
+      "cookingTime": "30 minutes",
+      "ingredients": [
+        "Dough",
+        "tomato sauce",
+        "cheese",
+        "toppings (pepperoni, mushrooms, bell peppers, etc.)"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPitk5t8N1e14DeaFGAIfutkbvVmOkWMAH9w&s"
+    },
+    {
+      "id": "6",
+      "title": "Besh Barmoq",
+      "cookingTime": "45 minutes",
+      "ingredients": ["Lamb meat", "onion", "bell peppers", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsJ7QN3nX0sdSpoyUliGplzk2ZdUpgGDBrKSVpIZYtg&s"
+    },
+    {
+      "id": "7",
+      "title": "Shashlik",
+      "cookingTime": "20 minutes",
+      "ingredients": [" meat", "onion", "bell peppers", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXINbZJxm34BLBfzDnQ-n4WCRtJmlEaCTq7w&s"
+    },
+    {
+      "id": "8",
+      "title": "Tabaka",
+      "cookingTime": " 50 minutes",
+      "ingredients": ["chicken meat", "onion", "bell peppers", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://www.myjewishlearning.com/wp-content/uploads/2021/06/ED-FI-chickentabaka_mainphoto-SONYA-SANFORD-.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Qiyma Shashlik",
+      "cookingTime": "10 minutes",
+      "ingredients": [" meat", "onion", "bell peppers", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9ZzwmeS27baDXEk_bWT6DBJ6bpGcRqn-rSRE0WQPJA&s"
+    },
+    {
+      "id": "10",
+      "title": "Gulyash",
+      "cookingTime": "190 minutes",
+      "ingredients": [" meat", "onion", "bell peppers", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://img.iamcook.ru/2022/upl/recipes/cat/u-9c9ae3eeb9434a12f3f5ce1cce4ed362.jpg"
+    }
+  ]
+}
